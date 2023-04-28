@@ -2,7 +2,7 @@ import numpy as np
 from datetime import datetime
 import time
 
-v = np.arange(10000)
+v = np.arange(1000)
 
 import time
 start = time.time()
